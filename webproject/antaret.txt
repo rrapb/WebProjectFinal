@@ -1,0 +1,11 @@
+1.Samir Tahiri ~ ID:181943939 ~ email: st43939@ubt-uni.net
+2.Freskim Hisenaj ~ ID:181944191 ~ email: fh44191@ubt-uni.net
+3.Rrap Braina ~ ID:181946757 ~ email: rb46757@ubt-uni.net
+
+
+linku i repository gitHUB : https://github.com/STcodes/webUBT.git // frontend ( projekti i pare)
+
+
+linku i repository gitHUB : https://github.com/STcodes/WebProjectFinal // full stack ( komplet projekti)
+
+
